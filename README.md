@@ -2,7 +2,6 @@
 
 I am Lei Xue, or you can call me Sherry.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently a Master Student in University of Pittsbrugh. My major is Business Analytics, and one day I hope to work as a Software Engineer.
 - 🌱 I’m currently learning Python, Java, HTML, CSS, C++.
