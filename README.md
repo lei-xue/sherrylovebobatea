@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Lei Xue, or you can call me sherry.
+I am Lei Xue, or you can call me Sherry.
 
 Here are some ideas to get you started:
 
