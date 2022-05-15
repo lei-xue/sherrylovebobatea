@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: leix2833@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I greatly enjoy drinking bobatea, and that is the origin of my github site name- 'sherry love bobatea'
-- 
+![](https://img.shields.io/badge/bobatea-lover-orange)
