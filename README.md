@@ -3,8 +3,8 @@
 I am Lei Xue, or you can call me Sherry.
 
 
-- 🔭 I’m currently a Master Student in Georgia Insitute of Technology, My major is Management Information Systems and one day I hope to work as a Software Engineer.
-- 🌱 I’m currently learning Java, HTML, CSS, C++,R, Python, Linux
+- 🔭 I’m currently a Master Student in Georgia Insitute of Technology.
+- 🌱 I’m currently learning React, HTML, CSS, C++,R, Python, Linux
 - 👍 I can use Microsoft Office, Power BI, Python, SQL, Tableau, Simio. 
 - 📫 How to reach me: leix48@gatech.edu
 - 😄 Pronouns: She/Her
